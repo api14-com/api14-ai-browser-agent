@@ -35,6 +35,10 @@ An AI browser agent is a web browser that an AI can operate for you. Instead of 
 - Address bar suggestions, bookmarks bar, downloads, history, find in page, zoom
 - Right-click menus, duplicate / mute / reopen tabs, print, save as PDF, developer tools
 - Chrome keyboard shortcuts and customizable Quick open links
+- Incognito browser, page translation and Chrome extensions (unpacked)
+- Per-browser language, SOCKS5 / HTTP proxy, user agent and new-tab page
+- Password manager with Windows encryption; the agent fills saved logins without seeing the password
+- Files panel: preview, drag files into web pages, copy images, import your own files
 
 ### Browser automation with AI
 
