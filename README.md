@@ -28,6 +28,14 @@ An AI browser agent is a web browser that an AI can operate for you. Instead of 
 - Approval cards for actions that spend money, publish or delete
 - Works in the background and shows the page it is working on in a live mini window
 
+### Works with your own Chrome
+
+- Install the free **api14 AI Browser for Chrome** extension from the app's **Chrome** screen (a short guide opens everything for you)
+- Every Chrome profile you connect shows up under its own name after a one-time approval
+- See its windows and tabs live and manage them from the app; turn its other extensions on or off
+- The AI agent works in your real Chrome tabs, with your existing sign-ins, exactly like in the app's browsers
+- Runs only on your computer; you choose which Chrome the agent may use
+
 ### Chrome-like web browser
 
 - Multiple browser profiles, each with its own cookies, sign-ins and tabs
@@ -91,6 +99,9 @@ Yes. Sign in to each account in its own browser profile and ask the agent. It as
 
 **Does it update automatically?**
 Yes. On start it checks this repository's latest release, downloads the new installer, verifies its SHA-256 digest and installs it.
+
+**Can the agent use my normal Google Chrome?**
+Yes. Open **Chrome** in the app, follow the install guide for the api14 extension and approve your Chrome. The agent then sees it by the name you gave it and can work in its tabs.
 
 **Is there a macOS or Linux version?**
 Windows only for now.
