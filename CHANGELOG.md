@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.5.0
+
+- Real web search: the AI agent searches Google in a browser, in its own tab you can watch, opens the top results in their own tabs, reads them and answers from the most relevant passages with their sources
+- Chat data: everything the agent collects in a chat (search results, pages read, tool results, the structure of every report) is saved with the chat; right-click the chat and choose **Chat data** to see it all. The agent sees this data and searches it, so it does not collect the same thing twice
+- Say "continue" and the agent picks up where it left off: a report keeps growing in the same PDF, Excel or PowerPoint file instead of starting over
+- Send more messages while the agent works: they are queued and handed to the agent at its next step, and the current work keeps going. Remove a queued message with its X; Esc stops the agent and puts queued messages back into the message box
+- See how long the agent thinks and how long every tool call takes, live; large files such as reports show their progress while the agent writes them instead of a long "Thinking"
+- Warnings when a tool fails, when a tool takes unusually long or when the AI model stops responding
+- PDF reports with many images no longer hang
+
 ## 0.4.1
 
 - Faster, quieter start: the app opens on the home screen and loads no web page; your browsers wait on the home screen and open when you click them (or when the AI agent needs one)

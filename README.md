@@ -23,7 +23,10 @@ An AI browser agent is a web browser that an AI can operate for you. Instead of 
 
 - ChatGPT-style chat on the home screen: give the agent a task in plain language
 - Pick any of 400+ AI models and a thinking level; see the cost of every chat
-- Visible plan (to-do list), streamed reasoning and tool calls
+- Visible plan (to-do list), streamed reasoning and tool calls, with how long each step takes
+- Real Google search in its own tab: the agent reads the top results and answers with sources
+- Chat data: everything collected in a chat is saved; right-click the chat to see it, say "continue" to pick up the same work or report
+- Send more messages while the agent works: they are queued and the current work keeps going
 - Parallel subagents for independent jobs (for example two ad accounts at once)
 - Approval cards for actions that spend money, publish or delete
 - Works in the background and shows the page it is working on in a live mini window
