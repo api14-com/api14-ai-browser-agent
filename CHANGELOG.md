@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.1
+
+- Faster, quieter start: the app opens on the home screen and loads no web page; your browsers wait on the home screen and open when you click them (or when the AI agent needs one)
+- Closed browsers show their last preview and site on the home screen
+
 ## 0.4.0
 
 - Copy anything from a chat: select any text, or use the copy buttons on answers, code blocks, tables (they paste straight into Excel) and tool results
