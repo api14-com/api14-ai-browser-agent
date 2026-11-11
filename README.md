@@ -27,6 +27,9 @@ An AI browser agent is a web browser that an AI can operate for you. Instead of 
 - Parallel subagents for independent jobs (for example two ad accounts at once)
 - Approval cards for actions that spend money, publish or delete
 - Works in the background and shows the page it is working on in a live mini window
+- Notifies you when it needs your approval or has finished, even while you work in another app
+- Searchable chat history; copy answers, code and tables (straight into Excel) with one click
+- Drop or paste files and screenshots into the chat
 
 ### Works with your own Chrome
 

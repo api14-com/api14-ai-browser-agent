@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.4.0
+
+- Copy anything from a chat: select any text, or use the copy buttons on answers, code blocks, tables (they paste straight into Excel) and tool results
+- Right-click menu in the app: copy, paste, select all, open or copy links, copy images, spelling suggestions
+- Windows notifications when the AI agent needs your approval or finishes while you are in a browser or another app; click the notification to open the chat. The taskbar button shows when the agent is working or waiting, and the top bar counts waiting approvals
+- Chats: search titles and messages, rename, grouped by Today / Yesterday / Previous 7 days; Ctrl+N starts a new chat
+- Edit and resend a message, retry the last answer, scroll-to-bottom button, drafts kept for every chat, the Up arrow recalls your last message and Esc stops the agent
+- Drop or paste files and screenshots into the message box; they are added to the workspace for the agent
+- Errors are shown instead of failing silently
+- Signing out, clearing history and deleting passwords, extensions, chats or Chrome connections ask for a second click
+- Light, dark or system theme; the window remembers its size and position
+- A model is selected automatically on first start
+
 ## 0.3.0
 
 - Use your own Chrome: the new **api14 AI Browser for Chrome** extension (`api14-ai-browser-chrome`, included with the installer) connects any Chrome profile to the app
